@@ -20,14 +20,23 @@ python3 memo_app.py
 
 ​```text
 1. Add memo  2. Show memos  3. Exit
+
 Choose: 1
+
 Enter your memo: Buy milk
+
 Memo saved!
+
 1. Add memo  2. Show memos  3. Exit
+
 Choose: 2
+
 Buy milk
+
 1. Add memo  2. Show memos  3. Exit
+
 Choose: 3
+
 Goodbye!
 ​```
 
