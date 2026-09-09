@@ -18,9 +18,18 @@ python3 memo_app.py
 
 ## Example Usage
 
-\`\`\`text
-![alt text](<스크린샷 2026-09-10 오전 12.04.18.png>)
-\`\`\`
+​```text
+1. Add memo  2. Show memos  3. Exit
+Choose: 1
+Enter your memo: Buy milk
+Memo saved!
+1. Add memo  2. Show memos  3. Exit
+Choose: 2
+Buy milk
+1. Add memo  2. Show memos  3. Exit
+Choose: 3
+Goodbye!
+​```
 
 ## Test Cases
 1. Normal case, e.g. Add a memo and confirm it appears in the list
