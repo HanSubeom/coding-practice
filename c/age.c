@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(void) {
+   int age = 22;
+   printf("I am %d years old.\n", age);
+   return 0;
+}
